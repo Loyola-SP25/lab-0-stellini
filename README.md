@@ -2,3 +2,12 @@
 # CS151-Starter-Lab
 
 This lab will get us started with GitHub.
+
+
+**Name(s):** Nik Stellini
+
+**List:** 
+
+1. Road and Mountain Biking
+2. I go to Loyola University of Maryalnd
+
