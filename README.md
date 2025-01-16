@@ -11,3 +11,12 @@ This lab will get us started with GitHub.
 1. Road and Mountain Biking
 2. I go to Loyola University of Maryalnd
 
+# Classes 
+
+**List**
+
+- Encountering the past 
+- Comp Sci thrh Programming
+- Photography
+- The Art of reading 
+- Micro-Economics Principles 
